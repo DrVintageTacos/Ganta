@@ -1,2 +1,3 @@
 # Ganta
 Music
+!w.play
